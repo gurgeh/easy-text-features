@@ -8,24 +8,6 @@ from nltk.stem.snowball import SnowballStemmer
 
 
 """
-En ström som bara visar filerna
-
-Klustringsström (spara)
-
-Kategoriseringsström
-
---
-README
-checka in
---
-Gavagai-API
-Topic-modelling-API
-Word-diff API
-
-SPSS-exempel
-"""
-
-"""
 import spss.pyspark.runtime
 asContext = spss.pyspark.runtime.getContext()
 

@@ -2,7 +2,7 @@
 import sys
 from ngram import *
 
-INNAME = 'bistudien.csv'
+INNAME = 'text.csv'
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
